@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "config_flow": true,
   "documentation": "https://github.com/r01k/ha_fully_kiosk",
-  "requirements": ["python-fullykiosk @ git+https://github.com/r01k/python-fullykiosk@master"],
+  "requirements": ["git+https://github.com/r01k/python-fullykiosk@master"],
   "codeowners": [],
   "iot_class": "local_polling",
   "quality_scale": "gold",
