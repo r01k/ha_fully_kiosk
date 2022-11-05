@@ -7,7 +7,7 @@ from typing import Final
 
 from homeassistant.components.media_player import MediaPlayerEntityFeature
 
-DOMAIN: Final = "ha_fully_kiosk"
+DOMAIN: Final = "fully_kiosk"
 
 LOGGER = logging.getLogger(__package__)
 UPDATE_INTERVAL = timedelta(seconds=30)

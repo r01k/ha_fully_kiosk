@@ -1,0 +1,7 @@
+{
+    "name": "HA Fully Kiosk Browser",
+    "domains": ["device"],
+    "render_readme": true,
+    "homeassistant": "2022.11.1",
+    "hacs": "1.28.3"
+}

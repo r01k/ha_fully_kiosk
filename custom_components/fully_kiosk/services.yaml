@@ -3,7 +3,7 @@ load_url:
   description: Load a URL on Fully Kiosk Browser
   target:
     device:
-      integration: ha_fully_kiosk
+      integration: fully_kiosk
   fields:
     url:
       name: URL
@@ -18,7 +18,7 @@ start_application:
   description: Start an application on the device running Fully Kiosk Browser.
   target:
     device:
-      integration: ha_fully_kiosk
+      integration: fully_kiosk
   fields:
     url:
       name: Application
