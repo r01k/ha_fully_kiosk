@@ -25,6 +25,8 @@ MEDIA_SUPPORT_FULLYKIOSK = (
 
 SERVICE_LOAD_URL = "load_url"
 SERVICE_START_APPLICATION = "start_application"
+SERVICE_SET_SCREEN_BRIGHTNESS = "set_screen_brightness"
 
 ATTR_URL = "url"
 ATTR_APPLICATION = "application"
+ATTR_BRIGHTNESS = "brightness"

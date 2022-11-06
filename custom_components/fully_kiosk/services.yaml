@@ -23,7 +23,24 @@ start_application:
     url:
       name: Application
       description: Package name of the application to start.
-      example: "de.ozerov.fully"
+      example: "de.ozerov.fully.foo"
       required: true
       selector:
         text:
+
+set_screen_brightness:
+  name: Set Screen Brightness
+  description: Set the screen brightness level on the device running Fully Kiosk Browser.
+  target:
+    device:
+      integration: fully_kiosk
+  fields:
+    brightness:
+      name: Brightness
+      description: Brightness level to set.
+      example: "60"
+      required: true
+      selector:
+        number:
+          min: 0
+          max: 255
