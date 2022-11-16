@@ -1,3 +1,10 @@
 - https://docs.aiohttp.org/en/stable/client_advanced.html?highlight=ca#ssl-control-for-tcp-sockets
 - https://github.com/cgarwood/python-fullykiosk/pulls
-
+- https://community.home-assistant.io/t/how-to-add-community-build-component-to-home-assistant/159155
+- https://codingcyclist.medium.com/how-to-install-any-custom-component-from-github-in-less-than-5-minutes-ad84e6dc56ff
+- https://hacs.xyz/docs/publish/integration/
+- https://hacs.xyz/docs/publish/start/#hacsjson
+- https://developers.home-assistant.io/docs/api_lib_index/
+- https://community.home-assistant.io/t/components-require-additional-python-code-library/41148
+- https://github.com/home-assistant/brands
+- https://github.com/custom-components/integration_blueprint
