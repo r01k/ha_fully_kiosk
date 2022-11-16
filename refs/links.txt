@@ -1,0 +1,3 @@
+- https://docs.aiohttp.org/en/stable/client_advanced.html?highlight=ca#ssl-control-for-tcp-sockets
+- https://github.com/cgarwood/python-fullykiosk/pulls
+
